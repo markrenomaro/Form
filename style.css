@@ -1,0 +1,76 @@
+.button{
+	cursor: pointer;
+    background-color: transparent;
+    padding: 0;
+    cursor: default;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    border-style: solid;
+    border-width: 1px;
+    cursor: pointer;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 0;
+    padding-bottom: 0;
+    margin: 0;
+    min-width: 187px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 12px;
+    -webkit-appearance: none;
+    line-height: 16px;
+    display: inline-block;
+    background-color: #fff;
+    border-color: #000;
+    min-height: 32px;
+    line-height: 30px;
+    border-radius: 16px;
+}
+.button:hover{
+	background-color: #FFFDFC;
+	color: #6E6C6D;
+}
+input{
+	padding:initial;
+}
+label{
+	padding:initial;
+	font-size: 30px;
+	font-family: impact;
+}
+body{
+	border: 10px solid;
+  	padding: 15px;
+}
+.Names{
+	margin-bottom: 5px;
+	width: 20%;
+	border: 1px solid black;
+}
+.Password{
+	margin-bottom: 5px;
+	width: 20%;
+	border: 1px solid black;
+}
+.Number{
+	margin-bottom: 5px;
+	width: 20%;
+	border: 1px solid black;
+}
+.Email{
+	margin-bottom: 5px;
+	width: 20%;
+	border: 1px solid black;
+}
+.gender{
+	margin-bottom: 30px;
+}
+h1{
+	font-family: impact;
+	margin: 5px 5px 5px 5px;
+}
+.Terms{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
